@@ -1,0 +1,9 @@
+name: usf-env
+dependencies:
+  - python<3.10
+  - click
+  - geopandas
+  - ipykernel
+  - matplotlib
+  - numpy
+  - pandas
